@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../../Client/EchoClient/EchoClient/EchoClient.csproj" />
+  <Project Path="EchoServer/EchoServer.csproj" />
+</Solution>

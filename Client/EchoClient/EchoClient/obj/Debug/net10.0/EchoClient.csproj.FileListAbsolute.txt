@@ -1,0 +1,14 @@
+C:\Users\Paola\Desktop\LaboratorioSocket\Client\EchoClient\EchoClient\bin\Debug\net10.0\EchoClient.exe
+C:\Users\Paola\Desktop\LaboratorioSocket\Client\EchoClient\EchoClient\bin\Debug\net10.0\EchoClient.deps.json
+C:\Users\Paola\Desktop\LaboratorioSocket\Client\EchoClient\EchoClient\bin\Debug\net10.0\EchoClient.runtimeconfig.json
+C:\Users\Paola\Desktop\LaboratorioSocket\Client\EchoClient\EchoClient\bin\Debug\net10.0\EchoClient.dll
+C:\Users\Paola\Desktop\LaboratorioSocket\Client\EchoClient\EchoClient\bin\Debug\net10.0\EchoClient.pdb
+C:\Users\Paola\Desktop\LaboratorioSocket\Client\EchoClient\EchoClient\obj\Debug\net10.0\EchoClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paola\Desktop\LaboratorioSocket\Client\EchoClient\EchoClient\obj\Debug\net10.0\EchoClient.AssemblyInfoInputs.cache
+C:\Users\Paola\Desktop\LaboratorioSocket\Client\EchoClient\EchoClient\obj\Debug\net10.0\EchoClient.AssemblyInfo.cs
+C:\Users\Paola\Desktop\LaboratorioSocket\Client\EchoClient\EchoClient\obj\Debug\net10.0\EchoClient.csproj.CoreCompileInputs.cache
+C:\Users\Paola\Desktop\LaboratorioSocket\Client\EchoClient\EchoClient\obj\Debug\net10.0\EchoClient.dll
+C:\Users\Paola\Desktop\LaboratorioSocket\Client\EchoClient\EchoClient\obj\Debug\net10.0\refint\EchoClient.dll
+C:\Users\Paola\Desktop\LaboratorioSocket\Client\EchoClient\EchoClient\obj\Debug\net10.0\EchoClient.pdb
+C:\Users\Paola\Desktop\LaboratorioSocket\Client\EchoClient\EchoClient\obj\Debug\net10.0\EchoClient.genruntimeconfig.cache
+C:\Users\Paola\Desktop\LaboratorioSocket\Client\EchoClient\EchoClient\obj\Debug\net10.0\ref\EchoClient.dll
